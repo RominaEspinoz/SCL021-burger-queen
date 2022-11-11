@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Comfortaa:wght@300;400&display=swap');
+#Login {
+    background-color: rgba(15, 9, 4, 0.9);
+    padding: 1.5em;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    justify-content: center;
+}
+#logo1 {
+    width: 200px;
+    height: 200px;
+    margin: -30% 0% 0 0%;
+}
+#LoginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inputLogin {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-block-end: 1px solid rgba(255, 255, 255, 1);
+    width: 100%;
+    margin-block-start: 10%;
+}
+.inpLogin {
+    border: none;
+    background: none;
+    padding: 0 0.5em;
+    margin: 0.5em 0;
+    font-size: 1.5em;
+    width: 80%;
+    color: white;
+}
+#buttonLogin {
+    width: 80%;
+    height: 70px;
+    background: #194425;
+    border-radius: 10px;
+    margin: 18% auto 15% auto;
+    font-size: 2em;
+    border: none;
+    font-family: 'Comfortaa', cursive;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#login {
+    text-decoration: none;
+    color: white;
+    width: auto;
+    height: auto;
+    background: none;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+#root{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body {
+    background-repeat: no-repeat;
+    background: url(../public/img/restaurant.jpg) no-repeat center center fixed;
+    background-size: 100% 100%;
+}
+h1 {
+    font-size: 3em;
+    font-family: 'Chewy', cursive;
+    margin-bottom: 10%
+}
+h1,
+p {
+    color: white
+}
+p {
+    font-family: 'Comfortaa', cursive;
+    font-weight: lighter;
+    font-size: 1.2em;
+    width: 100%;
+}

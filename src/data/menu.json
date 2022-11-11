@@ -1,0 +1,101 @@
+{
+    "desayuno": [
+        {
+            "coffes": [
+                {
+                    "id": "1",
+                    "coffe": "Café Américano",
+                    "price": 5
+                },
+                {
+                    "id": "2",
+                    "coffe": "Café con Leche",
+                    "price": 5
+                }
+            ],
+            "sandwiches": [
+                {
+                    "id": "3",
+                    "sandwich": "Sandwich de Jamón y Queso",
+                    "price": 10
+                }
+            ],
+            "juice": [
+                {
+                    "id": "4",
+                    "juice": "Jugo de Frutilla",
+                    "price": 7
+                },
+                {
+                    "id": "5",
+                    "juice": "Jugo de Mango",
+                    "price": 7
+                }
+            ]
+        }
+    ],
+    "almuerzo": [
+        {
+            "hamburguesas": [
+                {
+                    "id": "6",
+                    "hamburger": "Hamburgesa Simple",
+                    "price": 10
+                },
+                {
+                    "id": "7",
+                    "hamburger": "Hamburgesa Doble",
+                    "price": 10
+                }
+            ],
+            "acompañamientos": [
+                {
+                    "id": "8",
+                    "acompañamiento": "Papas Fritas",
+                    "price": 5
+                },
+                {
+                    "id": "9",
+                    "acompañamiento": "Aros de Cebolla",
+                    "price": 5
+                }
+            ],
+            "juice": [
+                {
+                    "id": "10",
+                    "juice": "Jugo de Frutilla",
+                    "price": 7
+                },
+                {
+                    "id": "11",
+                    "juice": "Jugo de Mango",
+                    "price": 7
+                }
+            ],
+            "water": [
+                {
+                    "id": "12",
+                    "water": "Agua 500ml",
+                    "price": 5
+                },
+                {
+                    "id": "13",
+                    "water": "Agua 750ml",
+                    "price": 7
+                }
+            ],
+            "soda": [
+                {
+                    "id": "14",
+                    "soda": "Bebida 500ml",
+                    "price": 7
+                },
+                {
+                    "id": "15",
+                    "water": "Bebida 750ml",
+                    "price": 10
+                }
+            ]
+        }
+    ]
+}
